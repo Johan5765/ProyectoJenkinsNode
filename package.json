@@ -1,0 +1,9 @@
+{
+  "name": "proyecto-jenkins-node",
+  "version": "1.0.0",
+  "description": "Proyecto de prueba para Jenkins y Node.js",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
